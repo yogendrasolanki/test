@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>RecipeName</key>
+	<array>
+		<string>AAA</string>
+		<string>BBB</string>
+		<string>CCC</string>
+		<string>DDD</string>
+		<string>EEE</string>
+		<string>FFF</string>
+	</array>
+	<key>Thumbnail</key>
+	<array>
+		<string>1.jpg</string>
+		<string>2.jpg</string>
+		<string>3.jpg</string>
+		<string>4.jpg</string>
+		<string>5.jpg</string>
+		<string>index.jpg</string>
+	</array>
+	<key>PrepTime</key>
+	<array>
+		<string>30 min</string>
+		<string>35 min</string>
+		<string>20 min</string>
+		<string>45 min</string>
+		<string>1 hour</string>
+		<string>35 min</string>
+	</array>
+</dict>
+</plist>
